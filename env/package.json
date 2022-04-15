@@ -1,8 +1,9 @@
 {
-  "name": "webpack5",
+  "name": "env",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "repository": "git@github.com/Jenyadio/ahj-code.git",
   "scripts": {
     "start": "webpack serve --config webpack.dev.js",
     "build": "webpack --config webpack.prod.js",
